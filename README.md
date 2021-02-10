@@ -1,2 +1,2 @@
 # sonicExport
-applicatio to export sonic data from sonic API and CSV 
+Application to export sonic data from sonic API and CSV 
